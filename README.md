@@ -4,9 +4,9 @@ Check if your password has been violated as a result of a data breach. The scrip
 
 ## 1. Usage
 
-Just run the `main.py` script and enter the password you want to check.
+Just run the `main.py` or `main.rb` script and enter the password you want to check.
 
-`python3 main.py`
+`python3 python/main.py` or `ruby ruby/main.rb`
 
 ## 2. How does it work and is it safe to use this script?
 
